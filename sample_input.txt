@@ -1,0 +1,11 @@
+Hi team,
+
+Please contact john.doe@example.com or Jane_Smith@company.co.in for
+details about the internship. Some invalid-looking entries on purpose:
+hello@, @nouser.com, plainaddress, not.an.email
+
+For support write to help@my-site.org or sales+2026@my-site.org.
+Note that john.doe@example.com appears twice to test duplicate removal.
+
+Thanks,
+Admin
